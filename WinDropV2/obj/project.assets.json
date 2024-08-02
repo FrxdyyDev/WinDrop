@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {},
+    ".NETFramework,Version=v4.8/win": {},
+    ".NETFramework,Version=v4.8/win-x64": {},
+    ".NETFramework,Version=v4.8/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll",
+      "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\frede\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj",
+      "projectName": "WinDropV2",
+      "projectPath": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj",
+      "packagesPath": "C:\\Users\\frede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll": {
+            "target": "Package",
+            "version": "(, )"
+          },
+          "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll": {
+            "target": "Package",
+            "version": "(, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

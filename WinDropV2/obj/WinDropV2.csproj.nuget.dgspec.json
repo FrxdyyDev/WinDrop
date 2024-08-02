@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj",
+        "projectName": "WinDropV2",
+        "projectPath": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\WinDropV2.csproj",
+        "packagesPath": "C:\\Users\\frede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frede\\RiderProjects\\WinDropV2\\WinDropV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.dll": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "C:\\Users\\frede\\RiderProjects\\WinDropV2\\packages\\System.Runtime.WindowsRuntime.UI.Xaml.5.0.0-preview.5.20278.1\\build\\net461\\..\\..\\ref\\netstandard2.0\\System.Runtime.WindowsRuntime.UI.Xaml.dll": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

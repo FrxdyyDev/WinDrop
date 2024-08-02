@@ -1,0 +1,17 @@
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\WinDropV2.exe.config
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\WinDropV2.exe
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\WinDropV2.pdb
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\System.ValueTuple.dll
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\bin\Debug\System.ValueTuple.xml
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.Form1.resources
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.Properties.Resources.resources
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.csproj.GenerateResource.cache
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.csproj.CopyComplete
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.exe
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.pdb
+C:\Users\frede\RiderProjects\WinDropV2\WinDropV2\obj\Debug\WinDropV2.csproj.SuggestedBindingRedirects.cache
